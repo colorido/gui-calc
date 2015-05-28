@@ -8,7 +8,7 @@ import javax.swing.JTextField;
 public class displayPanel extends JPanel
 {
 
-	JTextArea area = new JTextArea();
+　　JTextArea area = new JTextArea();
     JTextField text = new JTextField();
 
 	displayPanel()
