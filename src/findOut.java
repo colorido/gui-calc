@@ -1,5 +1,3 @@
-//		double value = calc.SyntacticAnalysis(calc.chrModify("3-1="));
-
 public class findOut
 {
 
